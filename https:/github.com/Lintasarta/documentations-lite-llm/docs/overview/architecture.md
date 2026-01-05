@@ -4,7 +4,7 @@
 
 This document describes the high-level architecture of the system.
 
-![Lite LLM Architecture](image.png)
+![Lite LLM Architecture](1.png)
 
 **More replicas are better than fewer replicas with high memory / CPU**
 
