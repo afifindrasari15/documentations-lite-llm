@@ -2,7 +2,7 @@
 
 ## System Architecture
 
-![DekaLLM System Architecture](Topology_-_DekaLLM_DB.png)
+![DekaLLM System Architecture](1.png)
 
 DekaLLM is the backend system that manages LLM usage for internal Cloudeka services, including token pricing, usage tracking, and billing integration.
 
